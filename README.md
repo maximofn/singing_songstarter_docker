@@ -7,14 +7,11 @@ Dockerization of the [Hugging Face Singing Songstarter Space](https://huggingfac
 
 To make from this
 
-<iframe width="100%" height="500" src="samples/input.mp4" frameborder="0" allowfullscreen></iframe>
+https://github.com/maximofn/singing_songstarter_docker/assets/15805036/305662c7-f30c-4bad-b900-51a8e4cf9b01
 
 To this
 
-<audio controls>
-  <source src="samples/output.mp3" type="audio/mp3">
-  Tu navegador no soporta el elemento de audio.
-</audio>
+https://github.com/maximofn/singing_songstarter_docker/assets/15805036/853d1348-6be6-45f4-951b-c04b56afbca8
 
 ## Requisites
 
