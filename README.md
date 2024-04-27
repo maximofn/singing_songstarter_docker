@@ -8,14 +8,14 @@ Dockerization of the [Hugging Face Singing Songstarter Space](https://huggingfac
 To make from this
 
 <audio controls>
-  <source src="samples/input.wav" type="audio/wav">
+  <source src="samples/input.mp3" type="audio/mp3">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
 To this
 
 <audio controls>
-  <source src="samples/output.wav" type="audio/wav">
+  <source src="samples/output.mp3" type="audio/mp3">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
