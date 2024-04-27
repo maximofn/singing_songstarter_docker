@@ -7,10 +7,7 @@ Dockerization of the [Hugging Face Singing Songstarter Space](https://huggingfac
 
 To make from this
 
-<video width="100%" controls width="200px" height="100px">
-  <source src="samples/input.mp4" type="video/mp4">
-  Tu navegador no soporta el elemento de video.
-</video>
+<iframe width="100%" height="500" src="samples/input.mp4" frameborder="0" allowfullscreen></iframe>
 
 To this
 
