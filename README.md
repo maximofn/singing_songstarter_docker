@@ -7,10 +7,10 @@ Dockerization of the [Hugging Face Singing Songstarter Space](https://huggingfac
 
 To make from this
 
-<audio controls>
-  <source src="samples/input.mp3" type="audio/mp3">
-  Tu navegador no soporta el elemento de audio.
-</audio>
+<video width="100%" controls width="200px" height="100px">
+  <source src="samples/input.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento de video.
+</video>
 
 To this
 
