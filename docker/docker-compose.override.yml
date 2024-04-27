@@ -1,0 +1,5 @@
+version: "3.8"
+
+services:
+  singing_songstarter:
+    entrypoint: ["bash", "-c", "python app.py"]

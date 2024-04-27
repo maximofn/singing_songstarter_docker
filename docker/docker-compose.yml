@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  singing_songstarter:
+    container_name: singing_songstarter
+    image: maximofn/singing_songstarter:1.0.1
+    build: .
+    runtime: nvidia
+    network_mode: "host"
+    volumes:
+      - ./cache:/root/.cache
+    #   - ./gradio_cached_examples:/singing_songstarter/gradio_cached_examples
+    tty: true
+    stdin_open: true
